@@ -7,11 +7,11 @@ import time
 import paho.mqtt.client as mqtt
 
 # MQTT-Konfiguration
-MQTT_BROKER = "192.168.10.110"
+MQTT_BROKER = "[BROKER IP ADRESS]"
 MQTT_PORT = 1883
-MQTT_TOPIC = "homeassistant/pc/system"
-MQTT_USER = "mqtt-user"
-MQTT_PASS = "!Fusion2007"
+MQTT_TOPIC = ["MQQT/TOPIC"]
+MQTT_USER = ["USER_FOR_MQTT"]
+MQTT_PASS = ["USER_PW"]
 
 # MQTT-Client einrichten und verbinden
 client = mqtt.Client(callback_api_version=mqtt.CallbackAPIVersion.VERSION2)
