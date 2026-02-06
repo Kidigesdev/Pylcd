@@ -18,3 +18,6 @@ Requirements on your Pi:
 
 Optinally I created a version which changes the output from static PC data to the Bitcoin worth data. 
 This is the LCD-BTC.py
+
+***BETA***
+In the Beta folder is a windows version with NVIDIA GPU support of the data.py. I have not testet it and cannot tell if it works correctly!
