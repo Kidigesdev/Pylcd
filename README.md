@@ -15,3 +15,6 @@ Requirements on your Pi:
   - Json library
   - pahomqttclient library
   - RPLCD.i2c
+
+Optinally I created a version which changes the output from static PC data to the Bitcoin worth data. 
+This is the LCD-BTC.py
