@@ -2,6 +2,7 @@ This is a script with which ypu can display your PC stats on a Raspberry Pi 4B w
 You need an external MQTT Server (mine is in Homeassistant) to transfer the data.
 
 **At this moment it supports only AMD GPU's!!**
+
 **I only testet this Script on Linux!!**
 
 Requirements on your PC:
