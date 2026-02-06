@@ -1,4 +1,4 @@
-This is a script with which ypu can display your PC stats on a Raspberry Pi 4B with a 2004 LCD Display.
+This is a script with which you can display your PC stats on a Raspberry Pi 4B with a 2004 LCD Display.
 You need an external MQTT Server (mine is in Homeassistant) to transfer the data.
 
 **At this moment it supports only AMD GPU's!!**
